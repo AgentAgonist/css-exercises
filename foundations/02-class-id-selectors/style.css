@@ -1,0 +1,18 @@
+.odd {
+background-color: #f19999;
+font-family: "Verdana", "Dejavu Sans", sans-serif;
+
+}
+#two {
+    color: #0000FF;
+    font-size: 36px;
+}
+.odd.chan {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #00AA00;
+    font-size: 24px;
+    font-weight: bold;
+}
